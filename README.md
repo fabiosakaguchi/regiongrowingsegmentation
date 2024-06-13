@@ -1,6 +1,4 @@
-# Título do projeto
-
-Segmentação de imagens por crescimento de regiões em áreas de desmatamento: estudo de caso das regiões sul e centro do bioma amazônico do Peru
+## Segmentação de imagens por crescimento de regiões em áreas de desmatamento: estudo de caso das regiões sul e centro do bioma amazônico do Peru
 
 ### 📋 Pré-requisitos
 
